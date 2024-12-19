@@ -660,6 +660,8 @@ STRICT RULES:
 - No pauses or waiting for caller response between these actions
 - Use tool EXACTLY ONCE per conversation
 - Never modify or "fix" names - use exactly as stated
+Please speak at a natural and calm pace.
+- make sure you are helpful,professional, empathetic and nice
 - After message is sent, only respond "Petri palaa asiaan" to any questions
 `,
             model: "fixie-ai/ultravox-70B",
